@@ -185,6 +185,9 @@ module.exports = {
           ],
           maintainer: "GiovanH <uhscollection@icloud.com>",
           category: "game"
+        },
+        toolsets: {
+          appimage: "1.0.2"
         }
       }
     }
